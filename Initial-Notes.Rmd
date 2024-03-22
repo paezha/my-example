@@ -13,6 +13,6 @@ knitr::opts_chunk$set(echo = TRUE)
 
 Tasks:
 
-- Brett will work on the background, because he's the bufoon
+- Brett will work on the background, because he's the bufoon, but very accurate
 - Antonio will work on the methods
 
