@@ -1,0 +1,18 @@
+---
+title: "Initial-Notes"
+author: "Paez & Smith"
+date: "`r Sys.Date()`"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Inital notes
+
+Tasks:
+
+- Brett will work on the background
+- Antonio will work on the methods
+
